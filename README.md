@@ -13,11 +13,11 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/seharrandhawa4/SlendyWendy.git
+   git clone https://github.com/seharrandhawa4/Slendy-Wendy.git
 
 2.  **Navigate to the Project Directory:**
      ```bash
-      cd SlendyWendy
+      cd Slendy-Wendy
 
 
 3. **Run Game in Unity**
